@@ -1,5 +1,11 @@
 这是大三同学参加夏令营和九月份复试的一些博客汇总。大家想着要把这次宝贵的夏令营经历记录一下，好给学弟学妹一个参考。学弟学妹们可以结合自身情况，大概了解一下保研流程，部分学校保研考核要求，从而少走一些弯路，去到自己理想中的学校。
 
+## 2020夏令营总结贴
+
+- @[ModestYjx](https://blog.csdn.net/qq_40092110)的[保研经验贴](https://blog.csdn.net/qq_40092110/category_10348093.html)
+- @[KID22](https://www.zhihu.com/people/kid-22-32-56)的[计算机保研](https://www.zhihu.com/column/c_1293286348367900672)
+- @[猪儿虫的小仓库](https://www.zhihu.com/people/arong-75-6/posts)的[计算机保研经验帖 清华·北大·上交·复旦·南大](https://zhuanlan.zhihu.com/p/260002988)
+
 ## 2019夏令营总结贴
 
  - @[一岸流年](https://blog.csdn.net/qq_41997479)的[2019北理计算机，北航计算机夏令营，中科院霸面保研经验](https://blog.csdn.net/qq_41997479/article/details/95599816)
@@ -9,7 +15,7 @@
  - @[宫·商](https://blog.csdn.net/qq_38633884)的[2019上交、上科、北航、中科大、自动化所计算机夏令营+浙大计算机预推免简记](https://blog.csdn.net/qq_38633884/article/details/97178586)
   - @[圈圈](https://www.zhihu.com/people/li-quan-quan-24)的[2020 计算机保研经验（清华、浙大、同济、武大、中科院）](https://zhuanlan.zhihu.com/p/85507629)
 
-   
+
 ## 2018年夏令营总结贴
 
  - @[Johnny的博客](https://sweetice.github.io/)的[佛系保研：电气工程跨保AI](https://sweetice.github.io/2018/10/03/%E4%BD%9B%E7%B3%BB%E4%BF%9D%E7%A0%94-%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E8%B7%A8%E4%BF%9DAI/)
@@ -21,7 +27,7 @@
  - @[Zarper](https://oncemath.com)的[保研推免经验分享 - 数学系跨保 CS](https://oncemath.com/share/my-postgraduate-share/) 
  - @[lhw](https://www.zhihu.com/people/lhw-55/posts)的[211物联网工程保研中国科学技术大学cs自然语言处理方向](https://zhuanlan.zhihu.com/p/60553247)
  - @[菜得抠脚](https://github.com/taogelose)的[某菜在北航、中科院、南开的计算机视觉(CV)方向保研经历](https://blog.csdn.net/Taogewins/article/details/89087610)
- 
+
 ## 2017年夏令营总结贴
 
 - @[奋斗的小鸟lcy](https://www.jianshu.com/u/0fffd87a3234)的[计算机专业暑期夏令营之行总结](https://www.jianshu.com/p/9fe83bc6f679)
